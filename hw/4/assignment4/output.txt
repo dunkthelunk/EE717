@@ -1,0 +1,20 @@
+llist_testcases/input11.txt
+52a1e29ee1c275ccc43d577646408b56  -
+llist_testcases/input12.txt
+9a7dfaa6b46bfd118a339603e1524118  -
+llist_testcases/input13.txt
+f5811272f2a0540cfff55ae6db7db7a3  -
+llist_testcases/input14.txt
+2cbe0154d7e2e3ed7479987cf5ba19ad  -
+llist_testcases/input15.txt
+9655130926699c58d2fcbdfb031823c8  -
+llist_testcases/input16.txt
+ee7a574d84c2a72bb80ba11d908eeea1  -
+llist_testcases/input17.txt
+5c1f51169197c8d99a699ea354f96d3f  -
+llist_testcases/input18.txt
+6906643c42efd7b8ccc60200e1e6694c  -
+llist_testcases/input19.txt
+392110b9b309cd2aac55ab13ad158dda  -
+llist_testcases/input20.txt
+9bab53e7477ebe2283160ee80e21d929  -

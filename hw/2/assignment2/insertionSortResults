@@ -1,0 +1,12 @@
+Size = 100 Time taken = 0.038000ms
+Size = 200 Time taken = 0.257000ms
+Size = 500 Time taken = 1.356000ms
+Size = 1000 Time taken = 3.113000ms
+Size = 5000 Time taken = 79.871000ms
+Size = 10000 Time taken = 316.338000ms
+Size = 20000 Time taken = 1294.507000ms
+Size = 40000 Time taken = 2918.229000ms
+Size = 100000 Time taken = 15267.174000ms
+Size = 200000 Time taken = 64963.456000ms
+Size = 500000 Time taken = 415901.338000ms
+Size = 1000000 Time taken = 1532652.279000ms

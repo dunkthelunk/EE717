@@ -1,0 +1,30 @@
+bst_LCA_testcases/input6.txt
+d592fd2505517daf1ed8a05f0e1f3825  -
+bst_LCA_testcases/input7.txt
+43e82b8517a8400aad5126186ea275ae  -
+bst_LCA_testcases/input8.txt
+7de2b1e7c3a501d830c18d669722f8ce  -
+bst_LCA_testcases/input9.txt
+00cf8fc9181d789ddb83606bc9ec0fc2  -
+bst_LCA_testcases/input10.txt
+05447cf3b4b6cc35b22ea95a194df724  -
+bst_LCA_testcases/input11.txt
+bcc8fd7be931dcf82500c7a13a8288dc  -
+bst_LCA_testcases/input12.txt
+bc4c6103ac15251808db2358c4e0c6cf  -
+bst_LCA_testcases/input13.txt
+65be78aa9f85c1edd3d7cac8dbcfe182  -
+bst_LCA_testcases/input14.txt
+b362ae71f35abd789ac4b8e7ef67ef5e  -
+bst_LCA_testcases/input15.txt
+cfd0bfb8d27a2bf7fde0122290d6d68d  -
+bst_LCA_testcases/input16.txt
+0c0a43b558bf81f2ade03e279bd47606  -
+bst_LCA_testcases/input17.txt
+d3099429c46039593d34662e05e8482d  -
+bst_LCA_testcases/input18.txt
+0de22b4840e5381409c20b5984d51cfb  -
+bst_LCA_testcases/input19.txt
+3c8f9eb5d01796cf9c89096476c7fc48  -
+bst_LCA_testcases/input20.txt
+3cf8f6c8d4366182b73263ba0617caa1  -

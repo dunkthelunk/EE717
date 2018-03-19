@@ -1,0 +1,13 @@
+5
+9JKUp
+10
+p 60
+p 50
+p 77
+p 33
+r pU9KJ
+r K9JpU
+p 109
+p 65
+r KpJU9
+r pJK9U
